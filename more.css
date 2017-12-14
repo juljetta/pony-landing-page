@@ -1,0 +1,23 @@
+
+h1 {
+  background-color: #5E435C
+}
+.blue-header {
+  color: blue;
+}
+.red-header {
+  color: red;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.description {
+  font-style: italic;
+}
+
+#main-header {
+  color: white;
+  padding: 20px;
+}
